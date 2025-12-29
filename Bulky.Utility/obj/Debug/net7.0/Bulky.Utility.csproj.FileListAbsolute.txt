@@ -1,0 +1,12 @@
+E:\C#\MyCodes\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+E:\C#\MyCodes\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+E:\C#\MyCodes\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+E:\C#\MyCodes\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
