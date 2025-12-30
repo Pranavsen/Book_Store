@@ -18,6 +18,7 @@ namespace Bulky.DataAccess.Repository
         {
             _db = db;
             this.dbSet = _db.Set<T>();
+            _db.Products.Include(u => u.Category).Include(u=>u.CategoryId);
         }
 
         public void Add(T entity)
@@ -32,7 +33,7 @@ namespace Bulky.DataAccess.Repository
             return query.FirstOrDefault();
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
             return query.ToList();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ety2aj8L5mbdVUcLuQouRAC/aMeDS9yNsprB27y7txU=",
+  "Hash": "PAYhS/bxmMGvREr7TFtBkR0Tm2M1aM1M63gEkkoVfwo=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0984ec2f-bd74-43a2-8697-52257f85dd55.PNG",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/0984ec2f-bd74-43a2-8697-52257f85dd55.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\0984ec2f-bd74-43a2-8697-52257f85dd55.PNG"
+    },
+    {
+      "Identity": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\d9fde95b-6a9c-41a1-ab95-c24b3aa3940f.PNG",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/d9fde95b-6a9c-41a1-ab95-c24b3aa3940f.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\d9fde95b-6a9c-41a1-ab95-c24b3aa3940f.PNG"
     },
     {
       "Identity": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
