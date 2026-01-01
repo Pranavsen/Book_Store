@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\product\\faabe319-8582-4a04-a60b-3809332ee648.jpg"
     },
     {
+      "Id": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "E:\\C#\\MyCodes\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
