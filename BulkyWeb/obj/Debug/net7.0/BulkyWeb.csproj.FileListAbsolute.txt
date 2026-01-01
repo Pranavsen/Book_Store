@@ -9,6 +9,10 @@ E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\BulkyWeb.pdb
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Azure.Core.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Azure.Identity.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Humanizer.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -38,7 +42,10 @@ E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyInj
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
@@ -280,10 +287,3 @@ E:\C#\MyCodes\Bulky\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.dll
 E:\C#\MyCodes\Bulky\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
 E:\C#\MyCodes\Bulky\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
 E:\C#\MyCodes\Bulky\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
-E:\C#\MyCodes\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
